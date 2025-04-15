@@ -2,9 +2,9 @@
 
 🔥 Youtuber Machine Learning  And Reinforcement Learning
 
-🎥 Kênh YouTube: https://www.youtube.com/@RLandMLExplained
+🎥 Kênh YouTube: https://www.youtube.com/@GaAI-k2
 
-🌱 Đang thử thách tự học AI/ML 21 ngày!  
+🌱 Đã xong thử thách tự học AI/ML 21 ngày!  
 
 ## 📌 Dự án nổi bật
 - 🏡 [Dự đoán giá nhà với Machine Learning](https://github.com/Dinhk65/house-price-prediction)
