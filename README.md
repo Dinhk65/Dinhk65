@@ -5,6 +5,8 @@
 🎥 Kênh YouTube: https://www.youtube.com/@GaAI-k2
 
 🌱 Đã xong thử thách tự học AI/ML 21 ngày!  
+🌱 Đang Tryhard lộ trình 100 ngày tự học ML!  
+Xem lộ trình tại đây: (https://docs.google.com/spreadsheets/d/1WTtAzmejGyav2i4zHPyaIcB9sgYwx60j/edit?usp=sharing&ouid=111485352270300050524&rtpof=true&sd=true)
 
 ## 📌 Dự án nổi bật
 - 🏡 [Dự đoán giá nhà với Machine Learning](https://github.com/Dinhk65/house-price-prediction)
