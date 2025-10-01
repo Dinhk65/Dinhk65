@@ -17,15 +17,15 @@
 ---
 
 ## 🛠 Công cụ mình hay dùng
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-76B900?logo=python&logoColor=white)  
-![SHAP](https://img.shields.io/badge/SHAP-A80000?logo=python&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
-![LIME](https://img.shields.io/badge/LIME-008080?logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?logo=python&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
+![SHAP](https://img.shields.io/badge/SHAP-A80000?logo=python&logoColor=white)
+![LIME](https://img.shields.io/badge/LIME-008080?logo=python&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)   
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
 
