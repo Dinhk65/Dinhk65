@@ -1,19 +1,53 @@
-# 👋 Xin chào, tôi là Dinhk65! 🚀
+# 👋 Xin chào, mình là Dinhk65 🚀  
 
-🔥 Youtuber Machine Learning  And Reinforcement Learning
+🔥 Tryhard **Python, Machine Learning, Deep Learning, Reinforcement Learning** – chủ kênh **Gà AI**.  
+💡 Không phải researcher, cũng chưa là dev chuyên nghiệp – nhưng mình **Tryhard** mỗi ngày.  
 
-🎥 Kênh YouTube: https://www.youtube.com/@GaAI-k2
+---
 
-🌱 Đã xong thử thách tự học AI/ML 21 ngày!  
-🌱 Đang Tryhard lộ trình 100 ngày tự học ML!  
-Xem lộ trình tại đây: (https://docs.google.com/spreadsheets/d/1WTtAzmejGyav2i4zHPyaIcB9sgYwx60j/edit?usp=sharing&ouid=111485352270300050524&rtpof=true&sd=true)
+## 🚀 Các dự án mình từng build
+- 🏡 **Dự đoán giá nhà** – Regression pipeline đầy đủ  
+- 📉 **Dự đoán khách hàng rời bỏ dịch vụ** – Classification: EDA + Data Centric + Model Centric + Threshold tuning + UI (Streamlit)  
+- 💳 **Phát hiện gian lận thẻ tín dụng** – Classification: EDA + Xử lý dữ liệu mất cân bằng (focus PR-AUC) + Model Centric + Threshold tuning + UI (Streamlit)  
+- 💬 **Phân tích cảm xúc tiếng Việt** – NLP pipeline end-to-end  
+- 🛒 **Dự đoán hành vi khách hàng** – EDA + Phân cụm + Dự đoán hành vi phản hồi + Data Centric + Model Centric + Threshold tuning  
+- 🖼 **Nén ảnh** – KMeans & PCA + UI demo trực quan  
+- 🔎 **Data Visualization** – trực quan hóa, phân tích chi tiết trong nhiều project (theo dõi qua các buổi Live trên YouTube)  
 
-## 📌 Dự án nổi bật
-- 🏡 [Dự đoán giá nhà với Machine Learning](https://github.com/Dinhk65/house-price-prediction)
-- Phân loại Email Spam với Hồi quy Logistic (https://www.youtube.com/live/Pom_brpUgKA?si=1PhVm-XqFGvD0tx2)
-- AI nhận diện số viết tay với SVM (https://www.youtube.com/live/lWpv9HCT6Y8?si=zEdhLROii24yzB-Z)
-- AI dự đoán giá cổ phiếu với Random Forest (https://www.youtube.com/live/GZ_AMsn3yEk?si=Cl9w7moiYL_KIjsP)
-- AI phân loại hoa Iris với K-NN (https://www.youtube.com/live/MU0pxQ4pvkQ?si=rk4IneeWcDSt1Mg9)
-- Thử nghiệm mô hình auto translate video nhưng đã fail (https://www.youtube.com/live/h4_4eHxeKPE?si=2gwLjNq4QZ4LTx8q)
-- AI nhận diện cảm xúc với Naive Bayes (https://www.youtube.com/live/k4RNJyCuUDU?si=A9qI0OPHsJ55rBm6)
-🤖 Follow để cùng học AI nhé!
+---
+
+## 🛠 Công cụ mình hay dùng
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?logo=python&logoColor=white)  
+![SHAP](https://img.shields.io/badge/SHAP-A80000?logo=python&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
+![LIME](https://img.shields.io/badge/LIME-008080?logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+
+---
+
+## 🎯 Mục tiêu 2025
+✅ Hoàn thành lộ trình **ML/DS từ A đến Z**  
+✅ Xây dựng đủ bộ kỹ năng thực chiến **MLOps, NLP, LLM**  
+
+---
+
+## 🌍 Cộng đồng
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@GaAI-k2)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/dFRawBnJXM)  
+
+---
+
+## 📩 Liên hệ / Hợp tác
+- ✉️ Email: **gaai302010@gmail.com**  
+- 💼 Mở hợp tác về: **mentoring, demo dự án, xây dựng MVP, freelance AI/Data**  
+
+---
+
+🤖 Nếu bạn cũng đang tryhard AI → **follow mình**.  
+Đường dài nhưng đi cùng nhau sẽ vui hơn. 🚀  
